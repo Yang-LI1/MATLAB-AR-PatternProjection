@@ -30,5 +30,4 @@ Open MATLAB and navigate to the project folder, then run the main script:
 ```bash
 run main.m
 ```
-Follow the on-screen prompts to start the camera and begin detecting patterns.
 
