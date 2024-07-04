@@ -3,7 +3,7 @@
 ## Project Overview
 This repository hosts the MATLAB implementation of an augmented reality (AR) project that generates dynamic 3D projections from 2D patterns. Utilizing camera calibration techniques and homography, this project aims to augment the reality by overlaying 3D objects (cubes) onto 2D patterns captured in real-time.
 The result is :
-![Demo](result.gif)
+<img src="result.gif" width="250" alt="Demo GIF">
 
 ## Features
 - **Camera Calibration**: Utilizes MATLAB's camera calibrator to achieve precise intrinsic parameters.
